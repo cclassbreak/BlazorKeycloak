@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorKeycloak", "BlazorKeycloak.csproj", "{95F0A663-6687-463C-AF19-A49969C3A30D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95F0A663-6687-463C-AF19-A49969C3A30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F0A663-6687-463C-AF19-A49969C3A30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F0A663-6687-463C-AF19-A49969C3A30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F0A663-6687-463C-AF19-A49969C3A30D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22D84FEF-431B-4406-89F3-B1E39A2C6AA7}
+	EndGlobalSection
+EndGlobal
